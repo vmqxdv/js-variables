@@ -26,3 +26,10 @@ console.log(numberOfLettersInAlphabet); // Output: 26
 // ES: 1.
 const name = 'Valerio';
 console.log(name);
+
+// ES: 2.
+const number = 3;
+const text = 'del testo';
+const bool = true;
+
+console.log(number, text, bool);
