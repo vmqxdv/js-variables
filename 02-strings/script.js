@@ -24,5 +24,5 @@ console.log(numberOfLettersInAlphabet); // Output: 26
 
 
 // ES: 1.
-const name = 'Valerio'
+const name = 'Valerio';
 console.log(name);
